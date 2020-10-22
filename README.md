@@ -91,13 +91,13 @@ We will deploy   Redmine on our cluster
 
 * Give **tags** to your  Redmine, for more information visit [tags]
 
-![nginx-tags](/details-tags.png)
+![redmine-tags](/details-tags.png)
 
 * Click on **Parameters with default values**, You can set deployment values or use the default ones
 
 ![def-val](/parameters.png)
 
-* Please set the  RedmineL password in the parameters
+* Please set the  Redmine password in the parameters
 ![pass](/password.png)
 
 * After finishing everything, **tick** the box next to the agreements and click **install**
